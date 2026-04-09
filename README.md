@@ -271,7 +271,7 @@ MIT — 随便用，随便改，随便蒸馏。
 |------|------|
 | 🌐 官网 | [bookai.top](https://bookai.top) · [huasheng.ai](https://www.huasheng.ai) |
 | 𝕏 Twitter | [@AlchainHust](https://x.com/AlchainHust) |
-| 📺 B站 | [AI进化论-花生](https://space.bilibili.com/14097567) |
+| 📺 B站 | [花叔](https://space.bilibili.com/14097567) |
 | ▶️ YouTube | [@Alchain](https://www.youtube.com/@Alchain) |
 | 📕 小红书 | [花生](https://www.xiaohongshu.com/user/profile/5abc6f17e8ac2b109179dfdf) |
 | 💬 公众号 | 微信搜「花叔」或扫码关注 ↓ |

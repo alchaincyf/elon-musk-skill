@@ -262,16 +262,21 @@ npx skills add alchaincyf/nuwa-skill
 
 ```
 elon-musk-skill/
+├── .gitignore
 ├── README.md
 ├── SKILL.md                                    # 可直接安装使用
 ├── LICENSE
-├── references/                                 # 调研文件
+├── assets/
+│   └── hero.gif
+├── examples/
+│   └── demo-conversation.md                    # 实战对话记录
+├── references/                                 # 调研与作者信息
 │   ├── research.md
+│   ├── about-author.md
 │   ├── Elon-Musk-思想体系调研-20260404.md
 │   ├── 马斯克决策模式与行为分析-20260404.md
 │   └── 马斯克即兴思考方式调研.md
-└── examples/
-    └── demo-conversation.md                    # 实战对话记录
+└── wechat-qrcode.jpg
 ```
 
 ---

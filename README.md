@@ -149,11 +149,13 @@ npx skills add alchaincyf/elon-musk-skill
 
 | Runtime | 安装路径 |
 |---|---|
-| Claude Code | `~/.claude/skills/elon-musk-skill/` |
-| Codex CLI | `~/.codex/skills/elon-musk-skill/` |
-| Cursor | `~/.cursor/skills/elon-musk-skill/` |
-| OpenClaw | `~/.openclaw/workspace/skills/elon-musk-skill/` |
+| Claude Code | `~/.claude/skills/elon-musk-perspective/` |
+| Codex CLI | `~/.codex/skills/elon-musk-perspective/` |
+| Cursor | `~/.cursor/skills/elon-musk-perspective/` |
+| OpenClaw | `~/.openclaw/workspace/skills/elon-musk-perspective/` |
 | Hermes Agent | 跑该 runtime 的 install 脚本或 clone 到其 skills 目录 |
+
+手动安装时，目录名必须与 `SKILL.md` frontmatter 的 `name` 一致：`elon-musk-perspective`。仓库地址仍是 `alchaincyf/elon-musk-skill`。
 
 ```bash
 git clone https://github.com/alchaincyf/elon-musk-skill <对应路径>
